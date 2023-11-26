@@ -1,0 +1,27 @@
+From f5de33511c5b82517d4fe8a32036aba3be3c3a52 Mon Sep 17 00:00:00 2001
+From: Murod Komilov <murodkomilov18@gmail.com>
+Date: Tue, 28 Nov 2023 10:25:50 +0500
+Subject: [PATCH] Changed another two lines in firstFile.txt from git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index db9d90e..3489f75 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -2,8 +2,8 @@ Line 1-modified
+ Line 2-modified
+ Line 3
+ Line 4
+-Line 5
+-Line 6
++Line 5-l
++Line 6-l
+ Line 7
+ Line 8
+ Line 9
+-- 
+2.34.1
+
