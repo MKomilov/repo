@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 Hi 1-something
 Hi 2-something
+Hi 1-changed
+Hi 2-changed
+=======
+Hi 1-something
+Hi 2-something
+Hi 1-changed
+Hi 2-changed
+>>>>>>> git_2
 Hi 3
 Hi 4
 Hi 5
