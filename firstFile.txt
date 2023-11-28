@@ -5,6 +5,18 @@ Line 4-folder2
 Line 5-l
 Line 6-l
 Line 7
+<<<<<<< HEAD
+Line 8-folder2
+Line 9-folder2
 Line 8
 Line 9
 LIne 10-last
+LIne 10
+=======
+Line 8-folder2
+Line 9-folder2
+Line 8
+Line 9
+LIne 10-last
+LIne 10
+>>>>>>> refs/remotes/origin/git_1
